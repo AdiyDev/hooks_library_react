@@ -1,1 +1,1 @@
-export { useInput as default } from './useMatchMedia'
+export { useMatchMedia as default } from './useMatchMedia'
