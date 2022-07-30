@@ -1,0 +1,27 @@
+{
+    "name": "@AdiyDev/hooks_library_react",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/AdiyDev"
+    },
+    "version": "0.0.1",
+    "description": "popular hooks for react",
+    "scripts": {
+      "pub": "git checkout -- . && npm version patch && npm publish"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AdiyDev/hooks_library_react.git"
+    },
+    "author": "AdiyDev",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/AdiyDev/hooks_library_react/issues"
+    },
+    "homepage": "https://github.com/AdiyDev/hooks_library_react#readme",
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {
+      "react": "^18.2.0"
+    }
+  }
+  
