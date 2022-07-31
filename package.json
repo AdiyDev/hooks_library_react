@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/AdiyDev"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "popular hooks for react",
   "scripts": {
     "pub": "npm version patch && npm publish"
