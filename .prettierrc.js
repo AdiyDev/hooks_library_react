@@ -2,10 +2,9 @@ module.exports = {
   tabWidth: 2,
   printWidth: 120,
   endOfLine: 'auto',
-  arrowParens: 'avoid',
-  trailingComma: 'none',
+  arrowParens: 'always',
   semi: false,
   useTabs: false,
   singleQuote: true,
-  bracketSpacing: true
+  bracketSpacing: true,
 }
