@@ -9,7 +9,7 @@ export const useThrottle = (callback, delay) => {
         return
       }
 
-      callback(args)
+      callback(...args)
 
       isThrottled.current = true
 
